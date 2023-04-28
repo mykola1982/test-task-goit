@@ -4,7 +4,6 @@ export const SharedLayout = () => {
   return (
     <div>
       <header>
-        <h1>DSVSV</h1>
         <nav>
           <NavLink to="/">Home</NavLink>
           <NavLink to="/tweets">Tweets</NavLink>
