@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktest_task_goit=self.webpackChunktest_task_goit||[]).push([[193],{193:function(t,e,n){n.r(e),n.d(e,{default:function(){return r}});var s=n(184),r=function(){return(0,s.jsx)(s.Fragment,{children:(0,s.jsx)("h1",{children:"Tweets"})})}}}]);
+//# sourceMappingURL=193.43d25799.chunk.js.map
